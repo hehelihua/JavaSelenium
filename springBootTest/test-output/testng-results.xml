@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7464" started-at="2019-02-21T06:31:02Z" finished-at="2019-02-21T06:31:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7464" started-at="2019-02-21T06:31:02Z" finished-at="2019-02-21T06:31:10Z">
+      <class name="com.example.springBootTest.user.NewTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.example.springBootTest.user.NewTest@4973813a]" name="f" duration-ms="3" started-at="2019-02-21T06:31:10Z" finished-at="2019-02-21T06:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.example.springBootTest.user.NewTest -->
+      <class name="com.example.springBootTest.user.DemoTestng">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.example.springBootTest.user.DemoTestng@3a883ce7]" name="setup" is-config="true" duration-ms="5709" started-at="2019-02-21T06:31:02Z" finished-at="2019-02-21T06:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.example.springBootTest.user.DemoTestng@3a883ce7]" name="test3" duration-ms="15" started-at="2019-02-21T06:31:08Z" finished-at="2019-02-21T06:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.example.springBootTest.user.DemoTestng@3a883ce7]" name="test1" duration-ms="883" started-at="2019-02-21T06:31:08Z" finished-at="2019-02-21T06:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.example.springBootTest.user.DemoTestng@3a883ce7]" name="test2" duration-ms="2" started-at="2019-02-21T06:31:09Z" finished-at="2019-02-21T06:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.example.springBootTest.user.DemoTestng@3a883ce7]" name="teardown" is-config="true" duration-ms="771" started-at="2019-02-21T06:31:09Z" finished-at="2019-02-21T06:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.example.springBootTest.user.DemoTestng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
